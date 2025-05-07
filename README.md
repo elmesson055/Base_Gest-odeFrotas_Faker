@@ -20,14 +20,14 @@ Este projeto gera uma base de dados sintética de veículos e exporta os dados p
    pip install pandas faker
 
    ## Como usar
-1. Coloque o arquivo generate_vehicle_data.py na pasta c:\Users\**********\Desktop\Base .
+1. Coloque o arquivo generate_frota_data.py na pasta c:\Users\**********\Desktop\Base .
 2. Abra o Prompt de Comando e navegue até a pasta:
 
 cd c:\Users\**********\Desktop\Base
 
 Execute o script:
 
-python generate_vehicle_data.py
+python generate_frota_data.py
 
 
 1. Após a execução, o arquivo veiculos.xlsx será criado na mesma pasta com os dados gerados.
